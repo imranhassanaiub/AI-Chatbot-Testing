@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot Testing — AchieveTestPrep Admissions Assistant
+# 🤖 AI Chatbot Testing
 
 > **Automated prompt evaluation framework for an EdTech Sales Portal Appointment Setter AI**
 > Built with [Promptfoo](https://promptfoo.dev) | Provider: Ollama (Gemma 4) | Domain: EdTech / Healthcare
